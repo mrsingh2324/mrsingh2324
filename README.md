@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mrsingh18207885" target="blank"><img src="https://img.shields.io/twitter/follow/mrsingh18207885?logo=twitter&style=for-the-badge" alt="mrsingh18207885" /></a> </p>
 
-- 🔭 I’m currently working on **Jenkins CI/CD**
+- 🔭 I’m currently working on **NodeJs and MongoDB**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Backend technologies**
 
-- 👯 I’m looking to collaborate on [Deep Learning Projects](kaggle.com/mrsingh2324)
+- 👯 I’m looking to collaborate on [Full Stack Web development projects ](github.com/mrsingh2324)
 
-- 💬 Ask me about **Machine Learning** 
+- 💬 Ask me about **Java Script** 
 
 - 📫 How to reach me **satyam.12011172@gmail.com**
 
